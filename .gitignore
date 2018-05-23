@@ -1,0 +1,11 @@
+*.cache
+*.conda/pkgs
+*.ipynb_checkpoints
+*.local/share/jupyter
+.bash_logout
+.bashrc
+.profile
+.wget-hsts
+*.ipython/profile_default
+.rstudio
+.subversion
