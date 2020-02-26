@@ -1,4 +1,6 @@
-# open-context-jupyter
+# working with apis
+
+formerly titled, 'open-context-jupyter' when it was just a notebook for working with the OpenContext API.
 
 [![DOI](https://zenodo.org/badge/134486684.svg)](https://zenodo.org/badge/latestdoi/134486684)
 
